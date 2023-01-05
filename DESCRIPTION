@@ -1,0 +1,16 @@
+Package: knnplus
+Type: Package
+Title: K-Nearest Neighbour
+Version: 1.0
+Date: 2023-01-04
+Author: Mingqian Lyu, Yuxin Yuan, Simin Dong
+Maintainer: Mingqian Lyu <mingqian_lv@163.com>, Yuxin Yuan<yuanyuxin@ruc.edu.cn>, Simin Dongdong<simin@ruc.edu.cn>
+Description: Use the K-Nearest Neighbour model to fit and predict data, whether continuous or descrete.Meanwhile,show the plot and the best k
+License: GNU GPLv3
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
+LazyData: true
+RoxygenNote: 7.2.3
+NeedsCompilation: yes
+Packaged: 2023-01-04 09:31:53 UTC; YuanYuxin
+Depends: R (>= 3.5.0)
